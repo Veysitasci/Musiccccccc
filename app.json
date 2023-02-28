@@ -5,11 +5,11 @@
     "keywords" : ["music" , "telegram" , "telegram bot", "python","jiosaavn"],
     "env" : {
         "BOT_TOKEN" : {
-            "description" : "Enter your telegram bot token",
+            "description" : "6184529513:AAHY-c1E0Oxgo1etgXa0CV6ABiBLfTrP3ow",
             "value" : ""
         },
         "APP_NAME" : {
-            "description" : "Enter your heroku app name",
+            "description" : "Humamüzik",
             "value" : ""
         },
         "API_APP_URL" :{
